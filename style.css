@@ -1,0 +1,44 @@
+
+body{
+   padding-left: 500px;
+}
+.todo-container {
+    max-width: 400px;
+    background-color:coral;
+    padding: 100px 100px 100px 100px;
+    
+
+}
+
+ul {
+    list-style-type:decimal;
+    padding: 50;
+    text-decoration: underline 1px solid black;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+.h2{
+    font-family: poppins;
+    font-weight: 600;
+    color:black;
+    text-decoration: underline 2px solid black;
+    font-size: xx-large;
+    }
+.Text{
+    font-family: Poppins;
+    font-weight: 900;
+    color: black;
+    padding: 10px 10px 10px 10px;
+}
+.button{
+    color: black;
+    font-weight: 500;
+    padding: 10px 10px 10px 10px;
+    background-color: cornflowerblue;
+}
